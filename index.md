@@ -1,15 +1,28 @@
-
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+img[src~="thumbnail"] {
+   width:150px;
+   height:100px;
+}
+img[src~="bordered"] {
+   border: 1px solid black;
+}
+</style>")
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
-
+* Built a client facing API using flask asd
+tes
+<center>
 <kbd>
   <img src="https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png?raw=true">
-</kbd>
+</kbd></center>
+
+
+![](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png?raw=true){:.thumbnail.bordered}
 
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
@@ -19,5 +32,5 @@
 
 <kbd>
   <img src="https://images.squarespace-cdn.com/content/v1/55b6a6dce4b089e11621d3ed/1585087896250-R3GZ6OFWYQRZUJRCJU3D/produce_monthly.png">
-</kbd>
+</kbd></center>
 
