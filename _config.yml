@@ -4,3 +4,5 @@ remote_theme: godalming123/minimal
 plugins:
 - jekyll-remote-theme
 show_downloads: false
+kramdown:
+  input: Kramdown
