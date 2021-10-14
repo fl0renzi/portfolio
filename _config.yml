@@ -1,7 +1,6 @@
 title: Johan Elvemo portfolio
 description: Simple projects
-remote_theme: broccolini/swiss
-theme_color: black
+remote_theme: godalming123/minimal
 plugins:
 - jekyll-remote-theme
 show_downloads: false
