@@ -1,12 +1,5 @@
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-img[src~="thumbnail"] {
-   width:150px;
-   height:100px;
-}
-img[src~="bordered"] {
-   border: 1px solid black;
-}
+(setq markdown-css-paths '("css.css"))
+
 </style>")
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
