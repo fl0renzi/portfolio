@@ -1,10 +1,4 @@
-img[src~="thumbnail"] {
-   width:150px;
-   height:100px;
-}
-img[src~="bordered"] {
-   border: 1px solid black;
-}
+
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
@@ -18,8 +12,7 @@ img[src~="bordered"] {
   <img src="https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png?raw=true">
 </kbd>
 
-![](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png?raw=true){:.thumbnail.bordered}
-
+> ![](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png?raw=true){:.thumbnail.bordered}
 
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
