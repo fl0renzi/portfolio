@@ -5,8 +5,8 @@
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
-
+* Built a client facing API using flask asd
+tes
 <center>
 <kbd>
   <img src="https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png?raw=true">
