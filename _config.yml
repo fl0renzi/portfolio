@@ -1,6 +1,6 @@
 title: Johan Elvemo
 description: Simple projects
-remote_theme: godalming123/minimal
+remote_theme: godalming123/cayman
 plugins:
 - jekyll-remote-theme
 show_downloads: false
