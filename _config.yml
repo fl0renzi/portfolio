@@ -1,6 +1,6 @@
 title: Johan Elvemo portfolio
 description: Simple projects
-remote_theme: godalming123/minimal@v0.2.0
+remote_theme: godalming123/minimal
 plugins:
 - jekyll-remote-theme
 show_downloads: false
