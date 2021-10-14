@@ -21,6 +21,6 @@
 - I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
 
 <kbd>
-  <img src="https://github.com/PlayingNumbers/ball_image_classifier/blob/master/matrix_results.png?raw=true">
+  <img src="https://images.squarespace-cdn.com/content/v1/55b6a6dce4b089e11621d3ed/1585087896250-R3GZ6OFWYQRZUJRCJU3D/produce_monthly.png">
 </kbd>
 
