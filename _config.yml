@@ -3,6 +3,6 @@ description: Simple projects
 remote_theme: godalming123/minimal
 plugins:
 - jekyll-remote-theme
-show_downloads: false
+show_downloads: true
 kramdown:
   input: Kramdown
