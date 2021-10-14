@@ -7,10 +7,11 @@
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-
+<center>
 <kbd>
   <img src="https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png?raw=true">
-</kbd>
+</kbd></center>
+
 <center>
 > ![](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png?raw=true){:.thumbnail.bordered}
 </center>
