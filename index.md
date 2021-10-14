@@ -1,5 +1,3 @@
-(setq markdown-css-paths '("css.css"))
-
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
@@ -14,7 +12,6 @@ tes
 </kbd></center>
 
 
-![](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png?raw=true){:.thumbnail.bordered}
 
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
